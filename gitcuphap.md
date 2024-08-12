@@ -52,3 +52,8 @@ trong đó `-d` là viết tắt của `--delete`.
 ```
 git push origin <branch_name>
 ```
+## 10. Xem thông tin chi tiết đã thay đổi
+Để xem thông tin chi tiết về các thay đổi đã thực hiện, hãy sử dụng lệnh sau: heheeeeeee
+```
+git diff
+```
