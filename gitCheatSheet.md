@@ -77,3 +77,11 @@ git branch -d <branch_name>
 ```
 git push origin <branch_name>
 ```
+## Một số lưu ý khi sử dụng Git
+1. User branch để phát triển tính năng mới, tránh việc commit trực tiếp vào nhánh master.
+2. Commit thường xuyên, mỗi commit nên tương ứng với một tính năng hoặc một bug fix.
+3. Viết message commit rõ ràng, dễ hiểu.
+4. Pull before push, tránh việc xảy ra conflict.
+5. Dùng git tag để đánh dấu các phiên bản release.
+6. Backup dữ liệu thường xuyên.
+
